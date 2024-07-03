@@ -121,3 +121,8 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/flask
+
+# Elias - Custom
+
+# Environment
+.venv
